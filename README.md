@@ -1,0 +1,2 @@
+# libgatlinglog
+gatling log
